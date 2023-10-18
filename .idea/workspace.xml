@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68a76085-224f-4eef-b9fb-ccb8380078c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/clients/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/java/com/devsuperior/api/clients/ClientsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/java/com/devsuperior/api/clients/controllers/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/java/com/devsuperior/api/clients/dto/ClientDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/java/com/devsuperior/api/clients/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/java/com/devsuperior/api/clients/repositories/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/java/com/devsuperior/api/clients/services/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/test/java/com/devsuperior/api/clients/ClientsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/src/main/java/com/devsuperior/userrequestsb/UserRequestSbApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/src/main/java/com/devsuperior/userrequestsb/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/src/main/java/com/devsuperior/userrequestsb/job/JobConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/src/main/java/com/devsuperior/userrequestsb/step/FetchUserDataAndStoreDBStepConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_request/src/test/java/com/devsuperior/userrequestsb/UserRequestSbApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devsuperior/userrequestsb/UserRequestSbApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devsuperior/userrequestsb/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devsuperior/userrequestsb/job/JobConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devsuperior/userrequestsb/step/FetchUserDataAndStoreDBStepConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/devsuperior/userrequestsb/UserRequestSbApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Wtavh98rKrErJ2h6SjWr0h2Vwg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/temp/projetos/backend/user-request-sb/user_request"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="UserRequestSbApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.devsuperior.userrequestsb.UserRequestSbApplication" />
+      <module name="user-request-sb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devsuperior.userrequestsb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="user-request-sb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="user-request-sb" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserRequestSbApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68a76085-224f-4eef-b9fb-ccb8380078c2" name="Changes" comment="" />
+      <created>1697554565794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697554565794</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
